@@ -1,0 +1,139 @@
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1401 packages in 4.868s
+
+166 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> stats-widget@0.1.0 build /Users/sohini/entando-projects/statistical-dashboard/ui/widgets/widgets-dir/stats-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+43.64 kB  build/static/js/main.9c20401b.js
+541 B     build/static/css/main.073c9b0a.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - stats-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN @craco/craco@6.4.3 requires a peer of react-scripts@^4.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN cosmiconfig-typescript-loader@1.0.3 requires a peer of typescript@>=3 but none is installed. You must install peer dependencies yourself.
+npm WARN css-blank-pseudo@3.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN css-has-pseudo@3.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN css-prefers-color-scheme@6.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN cssnano@5.0.14 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN cssnano-preset-default@5.1.9 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN cssnano-utils@2.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-calc@8.1.0 requires a peer of postcss@^8.2.2 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-color-functional-notation@4.2.1 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-color-hex-alpha@8.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-color-rebeccapurple@7.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-colormin@5.2.2 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-convert-values@5.0.2 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-custom-properties@12.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-dir-pseudo-class@6.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-comments@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-duplicates@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-empty@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-overridden@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-double-position-gradients@3.0.4 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-env-function@4.0.4 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-focus-visible@6.0.3 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-focus-within@5.0.3 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-gap-properties@3.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-image-set-function@4.0.4 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-js@4.0.0 requires a peer of postcss@^8.3.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-lab-function@4.0.3 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-logical@5.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-merge-longhand@5.0.4 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-merge-rules@5.0.3 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-font-values@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-gradients@5.0.3 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-params@5.0.2 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-selectors@5.1.0 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-nested@5.0.6 requires a peer of postcss@^8.2.14 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-nesting@10.1.1 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-charset@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-display-values@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-positions@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-repeat-style@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-string@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-timing-functions@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-unicode@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-url@5.0.4 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-whitespace@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-ordered-values@5.0.2 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-overflow-shorthand@3.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-place@7.0.3 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-preset-env@7.2.0 requires a peer of postcss@^8.4 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-pseudo-class-any-link@7.0.2 requires a peer of postcss@^8.3 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-reduce-initial@5.0.2 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-reduce-transforms@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-svgo@5.0.3 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-unique-selectors@5.0.2 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN stylehacks@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN ts-node@10.4.0 requires a peer of typescript@>=2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+up to date in 5.292s
+
+174 packages are looking for funding
+  run `npm fund` for details
+
+Building micro-frontend code
+
+> stats-widget@0.1.0 build /Users/sohini/entando-projects/statistical-dashboard/ui/widgets/widgets-dir/stats-widget
+> react-scripts build
+
+Creating an optimized production build...
+
+warn - The `purge`/`content` options have changed in Tailwind CSS v3.0.
+warn - Update your configuration file to eliminate this warning.
+
+warn - The `darkMode` option in your Tailwind CSS configuration is set to `false`, which now behaves the same as `media`.
+warn - Change `darkMode` to `media` or remove it entirely.
+Compiled successfully.
+
+File sizes after gzip:
+
+43.92 kB  build/static/js/main.aaf82908.js
+1.82 kB   build/static/css/main.912e8b22.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - stats-widget built successfully
