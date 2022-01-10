@@ -42,11 +42,14 @@ components:
   - Initialize publication: `ent prj pbs-init` (requires the git bundle repo url)
   - Attach to kubernetes for an Entando application via ent attach-kubeconfig config-file or similar
 
-    ## Publish the bundle
+  ## Publish the bundle
 
   1. Build: `ent prj fe-build -a` (to just build the frontend, including changes from bundle_src)
+
   2. Publish: `ent prj fe-push` (publish just the frontend)
+
   3. Deploy (after connecting to k8s above): `ent prj deploy`
+
   4. Install the bundle via
 
   - App Builder,
